@@ -1,0 +1,26 @@
+canvas#tahvel{
+    background-color: skyblue;
+    border: 1px solid black;
+}
+body{
+    background-color: hotpink;
+    padding-top: 2%;
+    padding-left: 2.5%;
+}
+h1#Title{
+    border: darkblue 1px solid;
+    border-radius: 10px;
+    background-color: skyblue;
+    padding: 10px;
+
+}
+h1#Title2{
+    border: darkblue 1px solid;
+    border-radius: 10px;
+    background-color: skyblue;
+    padding: 10px;
+
+}
+canvas#lipp{
+    border: darkblue 1px solid;
+}

@@ -1,0 +1,18 @@
+#menyy{
+    float: left;
+    padding: 30px;
+    background-color: aquamarine;
+}
+#sisu {
+    float: left;
+    padding: 2%;
+}
+#footer{
+    clear: left;
+
+
+ }
+img{
+    width: 60%;
+    border-radius: 50%;
+}
